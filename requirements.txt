@@ -2,3 +2,4 @@ matplotlib
 seaborn
 streamlit 
 yfinance
+model_building
